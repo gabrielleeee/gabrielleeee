@@ -1,8 +1,6 @@
 ### Olá! 👋
 
-### Meu nome é Gabrielle Poletti Ferreira, tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca. Gosto muito da área de tecnologia, e atualmente estou focada em aprimorar minhas habilidades para crescer na minha carreira e contribuir para projetos que tenham um impacto positivo.
-
-### My name is Gabrielle Poletti Ferreira, I'm 20 years old and I'm studying Systems Analysis and Development at Fatec Franca. I really like the technology area, and I am currently focused on improving my skills to grow in my career and contribute to projects that have a positive impact.
+### Meu nome é Gabrielle Poletti Ferreira, tenho 20 anos e sou formada em Análise e Desenvolvimento de Sistemas na Fatec Franca. Gosto muito da área de tecnologia, e atualmente estou focada em aprimorar minhas habilidades para crescer na minha carreira e contribuir para projetos que tenham um impacto positivo.
 
 ### <b>📈 GitHub Stats:</b>
 ![Gabrielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielleeee&show_icons=true&theme=radical)
