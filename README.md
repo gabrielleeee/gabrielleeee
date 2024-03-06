@@ -1,5 +1,7 @@
-## Hello, my name is Gabrielle! ❤
+# Hello, my name is Gabrielle! ❤
 
+  <img src="https://github.com/gabrielleeee/gabrielleeee/assets/89078209/4e4358e1-6900-4885-9106-fde6e0b3b584" min-width="200px" max-width="200px" width="200px" align="right">
+    
 <div align="left">
   👨‍💻 Trainee Programmer at Compass.UOL <br /><br />
   👨‍🎓 Degree in Systems Analysis and Development <br /><br />
@@ -41,7 +43,7 @@
 <br/><br/>
 
 <div>
-
+  
   [<img align="left" width="94px" alt="Toeic" src="https://github.com/gabrielleeee/gabrielleeee/assets/89078209/8be6aacc-c012-4a24-9596-698097e35d78"/>](#)
 
   <p align="right">
@@ -51,8 +53,9 @@
   </p>
 </div>
 
+<br>
 
-## <b>📘 Academic education</b>
+## <b>📘 Academic education </b>
 
 <div>
 
