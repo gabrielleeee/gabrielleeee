@@ -18,6 +18,7 @@
 
 ## 💻 My main skills
 
+<code><img height="29" src="https://github.com/user-attachments/assets/abae10fd-f383-45aa-b9af-480534644400" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -25,6 +26,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://github.com/gabrielleeee/gabrielleeee/assets/89078209/922965c4-2107-4bf9-84d6-425b11f008cb" alt="GitHub"/></code>
 <code><img height="36" src="https://github.com/gabrielleeee/gabrielleeee/assets/89078209/dde5cb81-2962-46c9-9930-ea7b3ed3d9c1" alt="MySQL"/></code>
+
 
 
 ## <b>📜 Certifications </b>
